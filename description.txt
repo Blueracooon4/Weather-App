@@ -1,0 +1,46 @@
+Weather App
+
+A modern weather application with glassmorphism design and dynamic color themes that change based on weather conditions.
+
+## Features
+
+### Design
+- **Glassmorphism UI**: Modern frosted glass effects with blur backgrounds
+- **Dynamic Themes**: App changes colors automatically based on weather
+  - Sunny: Warm oranges and yellows
+  - Cloudy: Cool blues and purples  
+  - Rainy: Deep blues and grays
+  - Snowy: Light purples and whites
+  - Night: Dark blues and purples
+- **Animated Backgrounds**: Flowing gradient animations
+- **Responsive Design**: Works on desktop, tablet, and mobile
+
+### Weather Features
+- **Real-time Data**: Current weather information using WeatherAPI
+- **City Search**: Search for any city worldwide
+- **Weather Details**: Temperature, humidity, wind speed, pressure, visibility, UV index
+- **Weather Icons**: Dynamic icons that match current conditions
+- **Error Handling**: User-friendly messages for invalid searches
+
+### Technical
+- **Built with**: HTML, CSS, JavaScript
+- **API**: WeatherAPI integration
+- **Icons**: Font Awesome weather icons
+- **Animations**: Smooth CSS transitions and effects
+- **Performance**: Optimized for fast loading
+
+## Usage
+
+1. Open the application in any modern web browser
+2. Enter a city name in the search box
+3. Press Enter or click the search button
+4. View weather data with automatic theme change
+
+## Weather Themes
+
+The app automatically switches between 5 color themes:
+- **Sunny**: Bright, energetic colors for clear weather
+- **Cloudy**: Calm blues for overcast conditions
+- **Rainy**: Dramatic colors for storms and rain
+- **Snowy**: Cool pastels for winter weather
+- **Night**: Deep colors for nighttime conditions
